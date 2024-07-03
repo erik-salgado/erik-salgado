@@ -16,7 +16,7 @@
   - [VPN: Setting up VPN](https://github.com/erik-salgado/VPN-Setup)
  
 - <b>Microsoft Azure Active Directory</b>
-  - [Microsoft Azure Active Directory: Installing Active Directory within Azure VMs](https://github.com/erik-salgado/install)
+  - [Microsoft Azure Active Directory: Installing Active Directory within Azure VMs](https://github.com/erik-salgado/Active-Directory-install)
   - [Configuring Active Directory within Azure VMs](https://github.com/erik-salgado/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erik-salgado/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/erik-salgado/azure-network-files-shares-permissions)
