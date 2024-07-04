@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure Compute</b>
   - [Azure: Creating Resources in the cloud](https://github.com/erik-salgado/Azure)
-  - [Azure: Performing activites on the Network](https://github.com/erik-salgado/Azure-Networking)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erik-salgado/azure-network-protocols)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
