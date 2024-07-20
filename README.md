@@ -33,5 +33,5 @@
 
 [twitter]: https://twitter.com/erik_salgado91
 [instagram]: https://www.instagram.com/erik.daniel7
-[linkedin]: https://linkedin.com/in/erik-salgado-rivas
+[linkedin]: https://linkedin.com/in/erik-salgado917
 
